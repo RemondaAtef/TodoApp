@@ -1,6 +1,6 @@
 # Todo Management Application
 
-A simple Todo Management application built with ASP.NET Core 9, Entity Framework Core, ABP Framework, and Bootstrap.
+A simple Todo Management application implemented using DDD principles,  built with ASP.NET Core 9, Entity Framework Core, ABP Framework, and Bootstrap.
 
 ## Features
 
